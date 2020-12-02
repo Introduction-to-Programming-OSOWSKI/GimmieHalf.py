@@ -1,16 +1,22 @@
-# **Assignment Title**  
+# **Gimmie Half**  
 
 ## **Assignment Description**  
-
+Create a function called gimmieHalf() that returns true/false if a given variable x is exactly half of a given variable y.
 
 ## **Examples**  
->
+>gimmieHalf(5, 10)  
+true
+
+>gimmieHalf(3, 7)  
+false
 
 ## **Limitations**  
 
 ## **Hints**  
+Use x % y to return the remainder of x divided by y.
 
 ## **Concepts**  
+Unit 1, if/else, mod operator
 
 ---
 
